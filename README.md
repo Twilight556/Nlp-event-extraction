@@ -40,5 +40,4 @@ As Stanford NER is written in Java, we use its [Python interface](https://github
 
 As we do not have enough time to create a sufficiently large learning set, the results shown by our system are not quite satisfying.
 
-[1]: Almgren, Magnus, and Jenny Berglund. "Information extraction of Seminar information." CS224N: Final Project (2000): 1-12.
-[2]: Black, Julie A., and Nisheeth Ranjan. "Automated event extraction from email." Final Report of CS224N/Ling237 Course in Stanford: http://nlp. stanford. edu/courses/cs224n/2004/, Spring (2004).
+
